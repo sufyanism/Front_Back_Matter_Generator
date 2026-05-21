@@ -1,4 +1,4 @@
-# Front & Back Matter Generator
+# Zeba Books Front & Back Matter Generator
 A modern web-based tool to quickly generate professional **Front Matter** and **Back Matter** pages for books, ebooks, PDFs, and publishing projects. Built with a clean UI, dark/light mode support, responsive layout, and export-ready formatting.
 
 ## ✨ Features
