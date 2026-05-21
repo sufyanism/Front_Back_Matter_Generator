@@ -13,7 +13,6 @@ A modern web-based tool to quickly generate professional **Front Matter** and **
 * 🧩 Clean HTML, CSS & JavaScript Structure
 
 ## 🚀 Technologies Used
-
 * HTML5
 * CSS3
 * JavaScript
@@ -33,7 +32,6 @@ Front_Back_Matter_Generator/
 ```
 
 ## 🖥️ Installation
-
 Clone the repository:
 
 ```bash
@@ -45,7 +43,6 @@ Open the project folder:
 cd Front_Back_Matter_Generator
 ```
 Run `index.html` in your browser.
-
 
 ## 🎯 Usage
 1. Enter your required content
@@ -59,7 +56,6 @@ The project includes:
 * Dark Mode
 * Dynamic Header/Footer Toggle
 
----
 ## 📱 Responsive Design
 Optimized for:
 * Desktop
