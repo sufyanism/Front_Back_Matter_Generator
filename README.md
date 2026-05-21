@@ -2,7 +2,6 @@
 A modern web-based tool to quickly generate professional **Front Matter** and **Back Matter** pages for books, ebooks, PDFs, and publishing projects. Built with a clean UI, dark/light mode support, responsive layout, and export-ready formatting.
 
 ## ✨ Features
-
 * 📘 Generate Front Matter pages
 * 📙 Generate Back Matter pages
 * 🌙 Dark / Light Theme Toggle
@@ -30,6 +29,10 @@ Front_Back_Matter_Generator/
 │   └── logo.png
 └── README.md
 ```
+
+
+## Demo
+https://github.com/user-attachments/assets/c5b8cbd7-0777-4c2d-97e2-4bcc7b34b080
 
 ## 🖥️ Installation
 Clone the repository:
